@@ -103,6 +103,11 @@ AddOutputFilter chunkFilter
 			<Item Name="Elapsed Times.vi" Type="VI" URL="../Elapsed Times.vi"/>
 		</Item>
 		<Item Name="Team Code" Type="Folder">
+			<Item Name="Util" Type="Folder">
+				<Item Name="ButtonPress.vi" Type="VI" URL="../Util/ButtonPress.vi"/>
+				<Item Name="Lever.vi" Type="VI" URL="../Util/Lever.vi"/>
+				<Item Name="Switch.vi" Type="VI" URL="../Util/Switch.vi"/>
+			</Item>
 			<Item Name="Autonomous Independent.vi" Type="VI" URL="../Autonomous Independent.vi"/>
 			<Item Name="Begin.vi" Type="VI" URL="../Begin.vi"/>
 			<Item Name="Disabled.vi" Type="VI" URL="../Disabled.vi"/>
