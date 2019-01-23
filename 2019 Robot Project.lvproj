@@ -106,6 +106,7 @@ AddOutputFilter chunkFilter
 			<Item Name="Commands" Type="Folder">
 				<Item Name="Actuateur.vi" Type="VI" URL="../Commands/Actuateur.vi"/>
 				<Item Name="pissssssston.vi" Type="VI" URL="../Commands/pissssssston.vi"/>
+				<Item Name="poigne de fer.vi" Type="VI" URL="../Commands/poigne de fer.vi"/>
 				<Item Name="Élevateur.vi" Type="VI" URL="../Commands/Élevateur.vi"/>
 			</Item>
 			<Item Name="Util" Type="Folder">
